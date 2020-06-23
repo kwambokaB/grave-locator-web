@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="595.28px" height="841.89px" viewBox="0 0 595.28 841.89" enable-background="new 0 0 595.28 841.89" xml:space="preserve">
+<g>
+	<polygon fill="#4D027C" points="160.729,397.145 238.007,397.145 238.007,462.681 359.312,462.681 433.78,462.681 433.78,530.057 
+		160.729,530.057 	"/>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M267.68,228.07l-78.312,78.311c-18.337,18.337-28.639,43.208-28.639,69.142v9.716h78.014v-5.609
+				c0-10.399,4.132-20.372,11.485-27.725l42.749-42.749c3.342-3.342,8.761-3.342,12.103,0l42.748,42.749
+				c7.354,7.353,11.484,17.326,11.484,27.725v73.074h74.469v-80.728c0-25.933-10.302-50.804-28.64-69.141l-74.765-74.765
+				c-8.656-8.657-20.003-12.985-31.349-12.985C287.682,215.085,276.336,219.414,267.68,228.07"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-1698.8555" y1="1420.25" x2="-1698.335" y2="1420.25" gradientTransform="matrix(524.273 0 0 -524.273 890824.875 744932.1875)">
+			<stop  offset="0" style="stop-color:#EA23FB"/>
+			<stop  offset="1" style="stop-color:#6D00A9"/>
+		</linearGradient>
+		<rect x="160.729" y="215.085" clip-path="url(#SVGID_2_)" fill="url(#SVGID_3_)" width="273.05" height="237.619"/>
+	</g>
+	<rect x="132.36" y="526.512" fill="#4D027C" width="333.335" height="17.729"/>
+	<path fill="#4D027C" d="M258.778,396.149c0,24.826,34.613,65.649,42.61,74.751c0.866,0.986,2.392,0.97,3.24-0.031
+		c7.938-9.356,42.641-51.58,42.641-74.72c0-24.437-19.809-44.245-44.245-44.245C278.588,351.905,258.778,371.713,258.778,396.149
+		 M275.798,394.338c0-15.039,12.19-27.228,27.227-27.228c15.038,0,27.227,12.189,27.227,27.228
+		c0,15.036-12.188,27.228-27.227,27.228C287.988,421.565,275.798,409.374,275.798,394.338"/>
+</g>
+</svg>
