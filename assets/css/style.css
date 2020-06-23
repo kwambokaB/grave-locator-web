@@ -1091,8 +1091,11 @@ div.cs-active {
 .logo .navbar-brand {
 	padding: 7px 0 0 0;
 }
-.resize:{
+.resize {
     resize: inherit;
+}
+.resize2 {
+	width: 70%;
 }
 .middle-quote {
 	padding-top: 17px;
@@ -1279,7 +1282,7 @@ nav.navbar-collapse,
 	height: 100;
 }
 .top-banner.background-image {
-	background: url(../../images/kapil-dubey-Uo57slslxF0-unsplash.jpg) center top no-repeat;
+	background: url(../../images/bg-img-1.jpg) center top no-repeat;
 	background-size: cover;
 }
 
